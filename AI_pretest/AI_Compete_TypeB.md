@@ -1,7 +1,7 @@
-# AI 경진대회 코딩 테스트 (B형)
-제출자: 이성욱(sungwook.Lee@hyundai.com)  
-날짜: '21.6/28  
-문제(Type B): 5차원으로 데이터의 차원 축소, 축소를 통해 정리된 인자들의 특성을 살펴라  
+# AI_Compete_TypeB  
+Author: SungwookLE  
+날짜: '21.6/28    
+문제: 5차원으로 데이터의 차원 축소, 축소를 통해 정리된 인자들 의 특성을 살펴라    
 
 **OVEVIEW**  
 1. Data Load and View  
@@ -23,7 +23,7 @@ from sklearn.preprocessing import StandardScaler
 print(check_output(["ls","input"]).decode('utf8'))
 ```
 
-    AI경진대회 예선(B형)_data-set.zip
+    AI경진대회 예선_data-set.zip
     input.csv
     output.csv
     
